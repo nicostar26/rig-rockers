@@ -27,6 +27,10 @@ header{
     padding: 0 10px;
 }
 
+.nav a:hover{
+    color: blue;
+}
+
 .social{
     text-align: right;
     margin-right: 20px;
