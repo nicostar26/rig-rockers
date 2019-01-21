@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    line-height: 1.7em;
+    font-family: arial, Arial, Helvetica, sans-serif;
+
+}
+
+header{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+
+.logo{
+    margin-left: 20px;
+}
+
+.nav{
+    text-align: center;
+
+}
+
+.nav a{
+    text-decoration: none;
+    color: green;
+    padding: 0 10px;
+}
+
+.social{
+    text-align: right;
+    margin-right: 20px;
+}
