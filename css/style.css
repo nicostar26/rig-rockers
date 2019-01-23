@@ -23,15 +23,24 @@ header{
 
 .nav a{
     text-decoration: none;
-    color: green;
+    color: blue;
     padding: 0 10px;
 }
 
 .nav a:hover{
-    color: blue;
+    color: black;
 }
 
 .social{
     text-align: right;
     margin-right: 20px;
+}
+
+.jumbotron{
+    background: url('../img/justplayin.jpg') no-repeat;
+    background-size: 70%;
+    background-position-x: 50%;
+    width: 100%;
+    height: 500px;
+    border: 1px black solid;
 }
