@@ -6,6 +6,11 @@ body{
 
 }
 
+.container{
+    width: 85%;
+    margin: auto;
+}
+
 header{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -16,9 +21,15 @@ header{
     margin-left: 20px;
 }
 
+.logo img{
+    width: 300px;
+    height: auto;
+    margin-top: 10px;
+}
+
 .nav{
     text-align: center;
-
+    margin-top: 28px;
 }
 
 .nav a{
@@ -34,13 +45,64 @@ header{
 .social{
     text-align: right;
     margin-right: 20px;
+    margin-top: 20px;
+}
+
+.social a{
+    padding: 0 5px;
 }
 
 .jumbotron{
-    background: url('../img/justplayin.jpg') no-repeat;
-    background-size: 70%;
-    background-position-x: 50%;
-    width: 100%;
+    width: 90% auto;
     height: 500px;
-    border: 1px black solid;
+}
+
+
+.info h1{
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+    color: red;
+}
+
+.about{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.soldierrv img{
+    margin-left: 50px;
+    width: 450px;
+    height: auto;
+}
+
+.about-content p{
+    margin-right: 50px;
+}
+
+.about-content h2{
+    text-align: center;
+}
+
+
+
+.videos, .podcasts{
+    text-align: center;
+}
+
+.videos iframe{
+    height: 200px;
+    width: auto;
+    padding: 0 40px;
+}
+
+.spreaker-player{
+    height: 300px;
+    width: auto;
+    padding: 0 40px;
+}
+
+.podcasts h2, .videos h2{
+    text-align: center;
 }
