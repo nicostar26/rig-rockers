@@ -3,17 +3,27 @@ body{
     padding: 0px;
     line-height: 1.7em;
     font-family: arial, Arial, Helvetica, sans-serif;
+    background-color: black;
 
 }
 
 .container{
     width: 85%;
     margin: auto;
+    padding: 30px;
+    background-color: white;
+}
+
+.container2{
+    width: 85%;
+    margin: auto;
+    background-color: black;
 }
 
 header{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    height: 50px;
     
 }
 
@@ -24,12 +34,11 @@ header{
 .logo img{
     width: 300px;
     height: auto;
-    margin-top: 10px;
 }
 
 .nav{
     text-align: center;
-    margin-top: 28px;
+    margin-top: 10px;
 }
 
 .nav a{
@@ -39,17 +48,25 @@ header{
 }
 
 .nav a:hover{
-    color: black;
+    color: #64ADF5;
+}
+
+.nav a:visited{
+    text-decoration: none;
 }
 
 .social{
     text-align: right;
     margin-right: 20px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .social a{
     padding: 0 5px;
+}
+
+.social a:visited{
+    text-decoration: none;
 }
 
 .jumbotron{
@@ -72,9 +89,9 @@ header{
 }
 
 .soldierrv img{
-    margin-left: 50px;
     width: 450px;
     height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .about-content p{
@@ -85,6 +102,64 @@ header{
     text-align: center;
 }
 
+.hama{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.hama img{
+    width: 450px;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.hamapic{
+    text-align: right;
+    
+}
+
+.vetinfo{
+    text-align: center;
+    background-color: #F5F3E4;
+    padding: 50px;
+}
+
+.vetinfo h1{
+    display: inline;
+    padding-right: 100px;
+}
+
+.vetinfobtn{
+    height: 50px;
+    width: 120px;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+
+.aboutus{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.edgren1 img{
+    width: 300px;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.aboutus-content{
+    text-align: center;
+}
+
+.edgren2{
+    text-align: right;
+}
+
+.edgren2 img{
+    width: 300px;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 
 .videos, .podcasts{
@@ -105,4 +180,26 @@ header{
 
 .podcasts h2, .videos h2{
     text-align: center;
+}
+
+.affiliates{
+    background-color: #F5F3E4;
+    height: 250px;
+    text-align: center;
+}
+
+.affiliates h2{
+    padding-top: 70px;
+}
+
+.footer{
+    text-align: center;
+}
+
+.footer a{
+    text-decoration: none;
+}
+
+strong{
+    color: #651778;
 }
