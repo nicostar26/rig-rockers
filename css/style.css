@@ -69,12 +69,6 @@ header{
     text-decoration: none;
 }
 
-.jumbotron{
-    width: 90% auto;
-    height: 500px;
-}
-
-
 .info h1{
     position: absolute;
     left: 50%;
@@ -202,4 +196,17 @@ header{
 
 strong{
     color: #651778;
+}
+
+
+/* RV INFO PAGE */
+
+.rvbackground{
+    background-image: url('../img/rv.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -200px;
+    height: 450px;
+    width: 100%;
+    margin: auto;
 }
