@@ -21,15 +21,15 @@ body, #slider, .wrap, .slide-content{
 }
 
 .slide1{
-    background-image: url('../img/markfaith1.jpg');
+    background-image: url('../img/image1.jpg');
 }
 
 .slide2{
-    background-image: url('../img/markfaith2.jpg');
+    background-image: url('../img/bluebike.jpg');
 }
 
 .slide3{
-    background-image: url('../img/hamapic.png');
+    background-image: url('../img/christmasrig.jpg');
 }
 
 .slide-content{

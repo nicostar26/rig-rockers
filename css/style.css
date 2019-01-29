@@ -20,6 +20,8 @@ body{
     background-color: black;
 }
 
+/* HEADER */
+
 header{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -81,13 +83,7 @@ header{
     color: red;
 }
 
-.info h1{
-    position: absolute;
-    left: 50%;
-    top: 35%;
-    transform: translate(-50%, -50%);
-    color: red;
-}
+/* ABOUT WEBSITE */
 
 .about{
     display: grid;
@@ -108,39 +104,48 @@ header{
     text-align: center;
 }
 
+/* ROBERT HAMA */
+
 .hama{
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
 
-.hama img{
+#hama{
+    text-align: center;
+    padding: 10px;
+}
+
+.hamapic iframe{
     width: 450px;
-    height: auto;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .hamapic{
-    text-align: right;
-    
+    text-align: right; 
 }
+
+/* VET INFO SECTION AND BUTTON */
 
 .vetinfo{
     text-align: center;
     background-color: #F5F3E4;
-    padding: 50px;
+    height: 150px;
 }
 
-.vetinfo h1{
-    display: inline;
-    padding-right: 100px;
+#vetinfo{
+    float: left;
+    margin: 50px 0px 0px 200px;
 }
 
 .vetinfobtn{
     height: 50px;
     width: 120px;
-    border-radius: 15px;
-    margin-left: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
 }
+
+/* ABOUT MARK AND FAITH */
 
 .aboutus{
     display: grid;
@@ -167,26 +172,29 @@ header{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+/* VIDEOS AND PODCASTS SECTIONS */
 
 .videos, .podcasts{
-    text-align: center;
+    margin: auto;
 }
 
 .videos iframe{
     height: 200px;
     width: auto;
-    padding: 0 40px;
+    padding: 0 20px;
 }
 
 .spreaker-player{
     height: 300px;
     width: auto;
-    padding: 0 40px;
+    padding: 0 20px;
 }
 
 .podcasts h2, .videos h2{
     text-align: center;
 }
+
+/* AFFILIATES */
 
 .affiliates{
     background-color: #F5F3E4;
@@ -198,6 +206,7 @@ header{
     padding-top: 70px;
 }
 
+/* CONTACT CONTAINER AND FORM WIDTH AND POSITION */
 .contactus{
     height: 450px;
     text-align: center;
@@ -207,6 +216,8 @@ header{
     width: 40%;
     margin: auto;
 }
+
+/* FOOTER */
 
 .footer{
     text-align: center;
@@ -218,17 +229,4 @@ header{
 
 strong{
     color: #651778;
-}
-
-
-/* RV INFO PAGE */
-
-.rvbackground{
-    background-image: url('../img/rv.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position-y: -200px;
-    height: 450px;
-    width: 100%;
-    margin: auto;
 }
