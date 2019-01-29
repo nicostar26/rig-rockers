@@ -65,8 +65,20 @@ header{
     padding: 0 5px;
 }
 
-.social a:visited{
-    text-decoration: none;
+.fa-instagram{
+    color: purple;
+}
+
+.fa-facebook{
+    color: navy;
+}
+
+.fa-twitter{
+    color: lightskyblue;
+}
+
+.fa-youtube{
+    color: red;
 }
 
 .info h1{
@@ -184,6 +196,16 @@ header{
 
 .affiliates h2{
     padding-top: 70px;
+}
+
+.contactus{
+    height: 450px;
+    text-align: center;
+}
+
+.contactus form{
+    width: 40%;
+    margin: auto;
 }
 
 .footer{

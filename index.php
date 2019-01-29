@@ -1,39 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/slider.css">
-    <title>Rig Rockers</title>
-</head>
-
 <body>
-    <div class="container">
-    <header class="header">
-        <div class="logo">
-            <a href="#"><img src="img/logo.png" alt="Rig Rockers"></a>
-        </div>
-        <nav class="nav">
-                <a href="index.html">Home</a>
-                <a href="#hama">Robert Hama</a>
-                <a href="rvinfo.html">RV Info</a>
-                <a href="contact.php">Contact Us</a>
-        </nav>
-        <div class="social">
-                <a href="https://www.facebook.com"><i class="fab fa-facebook fa-2x"></i></a>
-
-                <a href="https://www.instagram.com"><i class="fab fa-instagram fa-2x"></i></a>
-
-                <a href="https://www.twitter.com"><i class="fab fa-twitter fa-2x"></i></a>
-
-                <a href="https://www.youtube.com"><i class="fab fa-youtube fa-2x"></i></a>
-
-        </div>
-    </header>
-</div>
+    <?php include 'inc/header.php'; ?>
 
     <!-- BEGINNING OF SLIDER -->
     <div class="container">
@@ -153,12 +119,10 @@
     </div>
 </div>
 
-<div class="container">
-    <div class="footer">
-       <h1>FOOTER</h1>
-       <p>Copyright &copy;2019 - Site Design by  <a href="http://nicolejsaunders.com"><strong>NS Development</strong></a></p>
-    </div>
-</div>
+<?php include 'inc/contactform.php'; ?>
+
+<?php include 'inc/footer.php'; ?>
+
 <script src="js/scriptslider.js"></script>
 
 </body>
