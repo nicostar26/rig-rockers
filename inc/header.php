@@ -16,10 +16,9 @@
 <div class="container">
     <header class="header">
         <div class="logo">
-            <a href="#"><img src="img/logo.png" alt="Rig Rockers"></a>
+            <a href="index.php"><img src="img/logo.png" alt="Rig Rockers"></a>
         </div>
         <nav class="nav">
-                <a href="index.php">Home</a>
                 <a href="index.php#hama">Robert Hama</a>
                 <a href="rvinfo.php">RV Info</a>
                 <a href="vetinfo.php">Veteran Info</a>

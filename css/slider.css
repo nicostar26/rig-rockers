@@ -40,11 +40,6 @@ body, #slider, .wrap, .slide-content{
     text-align: center;
 }
 
-.slide-content span{
-    font-size: 5rem;
-    color: white;
-}
-
 .arrow{
     cursor: pointer;
     position: absolute;
