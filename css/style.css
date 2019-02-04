@@ -38,7 +38,7 @@ header{
     height: auto;
 }
 
-.nav{
+/* .nav{
     text-align: center;
     margin: 20px 0px 0px 60px;
 }
@@ -55,12 +55,55 @@ header{
 
 .nav a:visited{
     text-decoration: none;
+} */
+
+
+                        /* 
+                        
+                        THIS CSS IS FOR THE HAMBURGER MENU 
+                        
+                        */
+
+
+.nav{
+    text-align: right;
 }
 
+.menu{
+    display: none;
+    text-align: center;
+    width: 100%;
+
+}
+
+.menu a{
+    text-decoration: none;
+    color: purple;
+    margin: 0px 10px;
+    line-height: 70px;
+    border-bottom: 1px solid #eaeaeb;
+}
+
+label{
+    margin: 0 40px 0 0;
+    font-size: 26px;
+    line-height: 70px;
+    cursor: pointer;
+}
+
+#toggle{
+    display: none;
+}
+
+#toggle:checked + .menu{
+    display: block;
+}
+
+
 .social{
-    text-align: right;
     margin-right: 20px;
     margin-top: 10px;
+    text-align: center;
 }
 
 .social a{
@@ -82,6 +125,21 @@ header{
 .fa-youtube{
     color: red;
 }
+
+                        /* 
+                        
+                        END OF HAMBURGER MENU CSS
+                        
+                        */
+
+
+/* 
+
+****************************
+SLIDER CSS IN CSS/SLIDER.CSS 
+****************************
+
+*/
 
 /* ABOUT WEBSITE */
 

@@ -18,11 +18,6 @@
         <div class="logo">
             <a href="index.php"><img src="img/logo.png" alt="Rig Rockers"></a>
         </div>
-        <nav class="nav">
-                <a href="index.php#hama">Robert Hama</a>
-                <a href="rvinfo.php">RV Info</a>
-                <a href="vetinfo.php">Veteran Info</a>
-        </nav>
         <div class="social">
                 <a href="https://www.facebook.com"><i class="fab fa-facebook fa-2x"></i></a>
 
@@ -33,5 +28,15 @@
                 <a href="https://www.youtube.com"><i class="fab fa-youtube fa-2x"></i></a>
 
         </div>
+        <div class="nav">
+            <label for="toggle">&#9776;</label>
+            <input type="checkbox" id="toggle"/>
+            <div class="menu">
+                <a href="index.php#hama">Robert Hama</a>
+                <a href="rvinfo.php">RV Info</a>
+                <a href="vetinfo.php">Veteran Info</a>
+            </div>
+        </div>
+        
     </header>
 </div>
