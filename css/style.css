@@ -25,7 +25,7 @@ body{
 header{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    height: 50px;
+    height: auto;
     
 }
 
@@ -65,10 +65,6 @@ header{
                         */
 
 
-.nav{
-    text-align: right;
-}
-
 .menu{
     display: none;
     text-align: center;
@@ -82,10 +78,11 @@ header{
     margin: 0px 10px;
     line-height: 70px;
     border-bottom: 1px solid #eaeaeb;
+    display: block;
 }
 
-label{
-    margin: 0 40px 0 0;
+.nav label{
+    margin-left: 85%;
     font-size: 26px;
     line-height: 70px;
     cursor: pointer;
@@ -183,6 +180,10 @@ SLIDER CSS IN CSS/SLIDER.CSS
     text-align: right; 
 }
 
+#vetlink{
+    display: none;
+}
+
 /* VET INFO SECTION AND BUTTON */
 
 .vetinfo{
@@ -257,16 +258,20 @@ SLIDER CSS IN CSS/SLIDER.CSS
 .affiliates{
     background-color: #F5F3E4;
     height: 250px;
-    text-align: center;
 }
 
 .affiliates h2{
     padding-top: 70px;
+    text-align: center;
+}
+
+.affiliates p{
+    padding: 20px;
 }
 
 /* CONTACT CONTAINER AND FORM WIDTH AND POSITION */
 .contactus{
-    height: 450px;
+    height: 500px;
     text-align: center;
 }
 
@@ -287,4 +292,140 @@ SLIDER CSS IN CSS/SLIDER.CSS
 
 strong{
     color: #651778;
+}
+
+
+/* MEDIA QUERIES */
+
+
+@media (max-width: 996px){
+    header{
+        display: block;
+        text-align: center;
+    }
+    
+    .nav label{
+        margin: auto;
+    }
+    .about{
+        display: block;
+        text-align: center;
+
+    }
+
+    .hama{
+        display: block;
+        text-align: center;
+        margin: auto;
+    }
+
+    .hamapic{
+        padding: 0;
+        margin: auto;
+    }
+
+    .aboutus{
+        display: block;
+        text-align: center;
+    }
+
+    .edgren1{
+        text-align: center;
+        width: auto;
+        padding: 30px 0;
+    }
+
+    .edgren2{
+        text-align: center;
+        width: auto;
+        padding: 30px 0;
+    }
+
+    #vetlink{
+        display: block;
+        font-weight: bold;
+        font-size: 26px;
+        margin: 60px 0px;
+    }
+
+    .vetinfo{
+        display: none;
+    }
+
+    .videos, .podcasts{
+        text-align: center;
+        display: block;
+        margin-top: 10px;
+    }
+
+    .videos iframe{
+        height: 300px;
+        width: auto;
+        padding: 20px 0px;
+    }
+    
+    .spreaker-player{
+        height: 300px;
+        width: auto;
+        padding: 20px 0px;
+    }
+
+
+}
+
+@media (max-width: 1200px){
+
+    .soldierrv img{
+        margin: 30px 0;
+    }
+
+    .aboutus{
+        display: block;
+        text-align: center;
+    }
+
+    .edgren1{
+        text-align: center;
+        width: auto;
+        padding: 30px 0;
+    }
+
+    .edgren2{
+        text-align: center;
+        width: auto;
+        padding: 30px 0;
+    }
+
+
+
+}
+
+@media (max-width: 580px){
+
+    .logo img{
+        width: 250px;
+        height: auto;
+        margin-left: 0;
+    }
+    .soldierrv img{
+        width: 300px;
+        height: auto;
+    }
+
+    .hamapic iframe{
+        width: 275px;
+        height: 200px;
+    }
+
+    .videos iframe{
+        height: 250px;
+        width: auto;
+        padding: 20px 0px;
+    }
+    
+    .spreaker-player{
+        height: 250px;
+        width: auto;
+        padding: 20px 0px;
+    }
 }

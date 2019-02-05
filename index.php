@@ -64,6 +64,8 @@
 
             <p>Humor has always been a beautiful vehicle for healing, and it truly is. And by the way… it’s fun. 
             </p>
+
+            <p id="vetlink">Are you a Veteran? For helpful info click <a href="vetinfo.php">Here</a> for resources.</p>
         </div>
         <div class="hamapic">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/0c1FWF3kBmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -131,7 +133,7 @@
 <div class="container">
     <div class="affiliates">
         <h2>Affiliates</h2>
-        <p>This is the affiliates section. This will be the companies that you are associated with and/or like working with. My logo included.</p>
+        <p><a href="http://nicolejsaunders.com">NS Development</a></p>
     </div>
 </div>
 
@@ -149,3 +151,4 @@
 
 
 </html>
+
