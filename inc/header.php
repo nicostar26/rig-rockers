@@ -32,7 +32,7 @@
             <label for="toggle">&#9776;</label>
             <input type="checkbox" id="toggle"/>
             <div class="menu">
-                <a href="index.php#hama">Robert Hama</a>
+                <a href="index.php#hama">Robert Hamma</a>
                 <a href="rvinfo.php">RV Info</a>
                 <a href="vetinfo.php">Veteran Info</a>
             </div>

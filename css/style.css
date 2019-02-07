@@ -265,6 +265,12 @@ SLIDER CSS IN CSS/SLIDER.CSS
     text-align: center;
 }
 
+#nsdev{
+    height: 100px;
+    width: auto;
+
+}
+
 .affiliates p{
     padding: 20px;
 }

@@ -51,12 +51,13 @@
 
 <!-- ROBERT HAMA -->
 <div class="container">
-    <h2 id="hama">Meet Robert Hama</h2>
+    
     <div class="hama" id="hama">
     
         <div class="hama-content">
+        <img id="hama" src="img/Roberthamma.png" alt="Robert Hamma">
             
-            <p>Robert Hama represents the vulnerable emotional inner core that most of us have, most particularly, veterans that have experienced the absurd experience and environment of serving and having the impact that combat brings to any person. Whether they’re a soldier or a civilian, Robert speaks to that experience.</p>
+            <p>Robert Hamma represents the vulnerable emotional inner core that most of us have, most particularly, veterans that have experienced the absurd experience and environment of serving and having the impact that combat brings to any person. Whether they’re a soldier or a civilian, Robert speaks to that experience.</p>
 
             <p>Robert allows individuals to really express themselves in a safe way. No different than individuals who make the decision to abuse substances and elude themselves from the violence of this world. That’s what Robert speaks to.}</p> 
 
@@ -133,7 +134,7 @@
 <div class="container">
     <div class="affiliates">
         <h2>Affiliates</h2>
-        <p><a href="http://nicolejsaunders.com">NS Development</a></p>
+        <p><a href="http://nicolejsaunders.com"><img id="nsdev" src="img/NSDevelopmentlogo.png" alt="NS Development"></a></p>
     </div>
 </div>
 
