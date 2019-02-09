@@ -21,11 +21,11 @@
         <div class="social">
                 <a href="https://www.facebook.com"><i class="fab fa-facebook fa-2x"></i></a>
 
-                <a href="https://www.instagram.com"><i class="fab fa-instagram fa-2x"></i></a>
+                <a href="https://www.instagram.com/rig.rocker"><i class="fab fa-instagram fa-2x"></i></a>
 
-                <a href="https://www.twitter.com"><i class="fab fa-twitter fa-2x"></i></a>
+                <a href="https://www.twitter.com/Rig_Rockers"><i class="fab fa-twitter fa-2x"></i></a>
 
-                <a href="https://www.youtube.com"><i class="fab fa-youtube fa-2x"></i></a>
+                <a href="https://www.youtube.com/channel/UCkEFtQQm05F3meMbDkGKJ-A"><i class="fab fa-youtube fa-2x"></i></a>
 
         </div>
         <div class="nav">

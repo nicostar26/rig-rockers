@@ -7,6 +7,11 @@ body{
 
 }
 
+strong1{
+    font-weight: bold;
+    color: blue;
+}
+
 .container{
     width: 85%;
     margin: auto;
@@ -145,6 +150,11 @@ SLIDER CSS IN CSS/SLIDER.CSS
     grid-template-columns: 1fr 1fr;
 }
 
+#about{
+    text-align: center;
+    padding: 30px;
+}
+
 .soldierrv img{
     width: 450px;
     height: auto;
@@ -164,9 +174,10 @@ SLIDER CSS IN CSS/SLIDER.CSS
 .hama{
     display: grid;
     grid-template-columns: 1fr 1fr;
+    margin: 40px 0;
 }
 
-#hama{
+.hamaname{
     text-align: center;
     padding: 10px;
 }
@@ -207,28 +218,23 @@ SLIDER CSS IN CSS/SLIDER.CSS
 /* ABOUT MARK AND FAITH */
 
 .aboutus{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-}
-
-.edgren1 img{
-    width: 300px;
-    height: auto;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-.aboutus-content{
     text-align: center;
 }
 
-.edgren2{
-    text-align: right;
+.edgren1 img{
+    width: 500px;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 30px;
+    margin: 40px;
 }
 
 .edgren2 img{
-    width: 300px;
+    width: 500px;
     height: auto;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 30px;
+    margin: 40px;
 }
 
 /* VIDEOS AND PODCASTS SECTIONS */
