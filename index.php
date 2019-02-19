@@ -46,7 +46,14 @@
         </div>
         <div class="about-content">
             
-            <p>We’re <strong1>Mark and Faith</strong1>; We’re the “Rig Rockers” tm!</p><p> Come along as we share our shit on the days of our lives as Rig Rockers. We're full-time (working) RV’rs, offering the tools of our journey in recovery of Self and Family Unity, Addictions, Abuses, Mental and Physical Health, Cancer, Death, Depression, Homelessness, Post-Military Realities, Blah Blah Blah, and a whole list of other shit that we can surely relate at some level.</p><p>So Follow us along as we sort through this crap and have some fun along the way!</p>
+        <p>Best Friends and, Alter-Ego, of Robert Haama, Were Mark and Faith and We’re the Rig Rockers ™.</p><p>  
+
+Robert was introduced in our lives, during Mark’s tour in Iraq. We show how a funny simple minded Charactor reminds us of how our complicated minds automatically default to old retarded choices that got us in situations that use to baffle us, ultimately deverting us in obtaing true honesty, fun and happyness.</p><p>
+
+We share a Family unit, now in recovery, and how we make better choices today living through various forms of Abuses, Addiction, Physical, Mental and Emotional Distress. Together we share in our experiences, strengths and hopes with a messed-up sense of humor.  </p><p>
+
+We invite y,all to join in our journey, as seen throught the glasses of Robert, in many forms of Social media, podcast, vloggs and You Tube “how to” and gadget reviews. </p>
+
         </div>
     </div>
 </div>
@@ -83,8 +90,8 @@
 <!-- VETERAN INFO LINK -->
 <div class="container">
 <div class="vetinfo">
-    <h1 id="vetinfo">Are you a veteran?</h1>
-    <button class="vetinfobtn"><a href="vetinfo.php">Helpful Info</a></button>
+    <h1 id="vetinfo">Robert's Resources</h1>
+    <button class="vetinfobtn"><a href="vetinfo.php">Click Here</a></button>
 </div>
 </div>
 
@@ -140,9 +147,9 @@ Check this out yo, “if Ya See our Rig a Rock’n, Don't Come a Knock’n”! (
     <div class="podcasts">
         <h2>Podcasts We Like</h2>
 
-        <a class="spreaker-player" href="https://www.spreaker.com/show/military-mortgage-talk" data-resource="show_id=1396849" data-theme="light" data-autoplay="false" data-playlist="show" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/3e7ccd4651641dfc563188f0eae38a0d.jpg" data-width="100%" data-height="400px">Listen to "Military Resource Radio" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
+        <a class="spreaker-player" href="https://www.spreaker.com/show/the-askgaryvee-show" data-resource="show_id=1534048" data-theme="light" data-autoplay="false" data-playlist="show" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/4be738a2acbb02c67ade4453ce0f1abf.jpg" data-width="100%" data-height="400px">Listen to "The GaryVee Audio Experience" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
 
-        <a class="spreaker-player" href="https://www.spreaker.com/show/military-mortgage-talk" data-resource="show_id=1396849" data-theme="light" data-autoplay="false" data-playlist="show" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/3e7ccd4651641dfc563188f0eae38a0d.jpg" data-width="100%" data-height="400px">Listen to "Military Resource Radio" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
+        <a class="spreaker-player" href="https://www.spreaker.com/show/the-school-of-greatness-with-lewis-howes" data-resource="show_id=1534377" data-theme="light" data-autoplay="false" data-playlist="show" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/d0817fb9199029eb817da8a82606969b.jpg" data-width="100%" data-height="400px">Listen to "The School of Greatness with Lewis Howes" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
 
         <a class="spreaker-player" href="https://www.spreaker.com/show/military-mortgage-talk" data-resource="show_id=1396849" data-theme="light" data-autoplay="false" data-playlist="show" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/3e7ccd4651641dfc563188f0eae38a0d.jpg" data-width="100%" data-height="400px">Listen to "Military Resource Radio" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
 
