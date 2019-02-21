@@ -1,0 +1,16 @@
+#crisis{
+    color: red;
+}
+
+.resources a{
+    display: block;
+
+}
+
+.resources h3{
+    margin-top: 50px;
+}
+
+.resources h1{
+    text-align: center;
+}

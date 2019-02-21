@@ -100,7 +100,7 @@ We invite y,all to join in our journey, as seen throught the glasses of Robert, 
 <div class="container">
         <div class="aboutus">
                 <div class="edgren1">
-                    <img src="img/markfaith2.jpg" alt="Mark and Faith">
+                    <img src="img/caricature.jpg" alt="Mark and Faith">
                 </div>
             <div class="aboutus-content">
                 <h2>So who are we?</h2>
