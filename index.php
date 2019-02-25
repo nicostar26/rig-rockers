@@ -42,7 +42,7 @@
     <div class="about">
     
         <div class="soldierrv">
-            <img src="img/soldierrv.jpg" alt="Solder and RV pic">
+            <img src="img/rr.jpg" alt="Mashup">
         </div>
         <div class="about-content">
             
@@ -71,9 +71,11 @@ We invite y,all to join in our journey, as seen throught the glasses of Robert, 
             
             <p><strong1>Robert Hamma</strong1> represents the vulnerable emotional inner core that most of us have, most particularly, veterans that have experienced the absurd experience and environment of serving and having the impact that combat brings to any person. Whether they’re a soldier or a civilian, Robert speaks to that experience.</p>
 
-            <p>Robert allows individuals to really express themselves in a safe way. No different than individuals who make the decision to abuse substances and elude themselves from the violence of this world. That’s what Robert speaks to.}</p> 
+            <p>Robert allows me to experience that with humor. He allows me to experience that in open truth using humor as a vehicle and that brings healing. Robert allowed me to laugh… and I mean laugh in a genuine way. Not in a cynical jaded way, but in a very open way.</p> 
 
-            <p>He allows me to experience that with humor. He allows me to experience that in open truth using humor as a vehicle and that brings healing. Robert allowed me to laugh… and I mean laugh in a genuine way. Not in a cynical jaded way, but in a very open way.</p> 
+            <p>He allows individuals to really express themselves in a safe way. No different than individuals who make the decision to abuse substances and elude themselves from the violence of this world. That’s what Robert speaks to.}</p> 
+
+            
 
             <p>Humor has always been a beautiful vehicle for healing, and it truly is. And by the way… it’s fun. 
             </p>
