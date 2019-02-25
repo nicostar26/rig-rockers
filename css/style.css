@@ -71,6 +71,7 @@ header{
     margin-left: 85%;
     font-size: 26px;
     cursor: pointer;
+    margin-top: 20px;
 }
 
 #toggle{
@@ -125,19 +126,24 @@ SLIDER CSS IN CSS/SLIDER.CSS
 
 /* ABOUT WEBSITE */
 
-.about{
+/* .about{
     display: grid;
     grid-template-columns: 1fr 1fr;
-}
+} */
 
 #about{
     text-align: center;
     padding: 30px;
 }
 
+.soldierrv{
+    text-align: center;
+}
+
 .soldierrv img{
-    width: 450px;
+    width: 600px;
     height: auto;
+    margin: 50px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -243,7 +249,7 @@ SLIDER CSS IN CSS/SLIDER.CSS
 
 .affiliates{
     background-color: #F5F3E4;
-    height: 250px;
+    height: 350px;
 }
 
 .affiliates h2{
@@ -254,11 +260,13 @@ SLIDER CSS IN CSS/SLIDER.CSS
 #nsdev{
     height: 100px;
     width: auto;
+    margin-bottom: 50px;
 
 }
 
 .affiliates p{
     padding: 20px;
+    
 }
 
 /* CONTACT CONTAINER AND FORM WIDTH AND POSITION */
@@ -298,6 +306,7 @@ strong{
     
     .nav label{
         margin: auto;
+        padding: 20px;
     }
     .about{
         display: block;
@@ -399,9 +408,37 @@ strong{
         height: auto;
         margin-left: 0;
     }
+    
+    .about-content p{
+        margin-right: 0px;
+    }
+
+
+    .edgren1, .edgren2{
+        text-align: center;
+    }
+
+    .edgren1 img{
+        width: 250px;
+        height: auto;
+        margin: 0px;
+    }
+
+    .edgren2 img{
+        width: 250px;
+        height: auto;
+        margin: 0px;
+    }
+
     .soldierrv img{
         width: 300px;
         height: auto;
+    }
+
+    #hamaname{
+        width: 280px;
+        height: auto;
+        text-align: center;
     }
 
     .hamapic iframe{
@@ -413,11 +450,13 @@ strong{
         height: 250px;
         width: auto;
         padding: 20px 0px;
+        margin: 0px;
     }
     
     .spreaker-player{
         height: 250px;
         width: auto;
         padding: 20px 0px;
+        margin: 0px;
     }
 }

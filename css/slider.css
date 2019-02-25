@@ -21,14 +21,18 @@ body, #slider, .wrap, .slide-content{
 
 .slide1{
     background-image: url('../img/image1.jpg');
+    background-size: cover;
 }
 
 .slide2{
-    background-image: url('../img/bluebike.jpg');
+    background-image: url('../img/rig1.jpg');
+    background-size: cover;
 }
 
 .slide3{
-    background-image: url('../img/christmasrig.jpg');
+    background-image: url('../img/rig4.jpg');
+    background-size: cover;
+    background-position-y: -300px;
 }
 
 .slide-content{
@@ -61,4 +65,12 @@ body, #slider, .wrap, .slide-content{
     border-color: transparent transparent transparent white;
     right: 0;
     margin-right: 30px;
+}
+
+@media (max-width: 500px){
+    .slide3{
+        background-image: url('../img/rig4.jpg');
+        background-size: cover;
+        background-position-y: 10px;
+    }
 }

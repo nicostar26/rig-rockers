@@ -46,13 +46,13 @@
         </div>
         <div class="about-content">
             
-        <p>Best Friends and, Alter-Ego, of Robert Haama, Were Mark and Faith and We’re the Rig Rockers ™.</p><p>  
+        <p>Best Friends and alter-ego of Robert Hamma, Were Mark and Faith. And we’re the Rig Rockers™.</p><p>  
 
-Robert was introduced in our lives, during Mark’s tour in Iraq. We show how a funny simple minded Charactor reminds us of how our complicated minds automatically default to old retarded choices that got us in situations that use to baffle us, ultimately deverting us in obtaing true honesty, fun and happyness.</p><p>
+Robert was introduced in our lives during Mark’s tour in Iraq. We show how a funny simple minded charactor reminds us of how our complicated minds automatically default to old retarded choices that got us in situations that use to baffle us, ultimately deverting us in obtaining true honesty, fun and happiness.</p><p>
 
-We share a Family unit, now in recovery, and how we make better choices today living through various forms of Abuses, Addiction, Physical, Mental and Emotional Distress. Together we share in our experiences, strengths and hopes with a messed-up sense of humor.  </p><p>
+We share a family unit, now in recovery, and how we make better choices today living through various forms of abuses, addictions, and physical, mental and emotional distress. Together we share in our experiences, strengths, and hopes with a messed-up sense of humor.  </p><p>
 
-We invite y,all to join in our journey, as seen throught the glasses of Robert, in many forms of Social media, podcast, vloggs and You Tube “how to” and gadget reviews. </p>
+We invite y'all to join in our journey as seen through the glasses of Robert in many forms of social media, how-tos, and gadget reviews. </p>
 
         </div>
     </div>
@@ -69,7 +69,7 @@ We invite y,all to join in our journey, as seen throught the glasses of Robert, 
         <div class="hama-content">
         
             
-            <p><strong1>Robert Hamma</strong1> represents the vulnerable emotional inner core that most of us have, most particularly, veterans that have experienced the absurd experience and environment of serving and having the impact that combat brings to any person. Whether they’re a soldier or a civilian, Robert speaks to that experience.</p>
+            <p><strong1>Robert Hamma</strong1> represents the vulnerable, emotional inner core that most of us have, most particularly, veterans that have experienced the absurd experience and environment of serving and having the impact that combat brings to any person. Whether they’re a soldier or a civilian, Robert speaks to that experience.</p>
 
             <p>Robert allows me to experience that with humor. He allows me to experience that in open truth using humor as a vehicle and that brings healing. Robert allowed me to laugh… and I mean laugh in a genuine way. Not in a cynical jaded way, but in a very open way.</p> 
 
@@ -80,7 +80,7 @@ We invite y,all to join in our journey, as seen throught the glasses of Robert, 
             <p>Humor has always been a beautiful vehicle for healing, and it truly is. And by the way… it’s fun. 
             </p>
 
-            <p id="vetlink">Are you a Veteran? For helpful info click <a href="vetinfo.php">Here</a> for resources.</p>
+            <p id="vetlink">Robert's Resources - click <a href="vetinfo.php">Here.</a></p>
         </div>
         <div class="hamapic">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/0c1FWF3kBmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
