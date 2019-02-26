@@ -1,8 +1,11 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+
 body{
     margin: 0px;
     padding: 0px;
     line-height: 1.7em;
-    font-family: arial, Arial, Helvetica, sans-serif;
     background-color: black;
 
 }

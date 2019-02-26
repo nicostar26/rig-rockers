@@ -46,9 +46,9 @@
         </div>
         <div class="about-content">
             
-        <p>Best Friends and alter-ego of Robert Hamma, Were Mark and Faith. And we’re the Rig Rockers™.</p><p>  
+        <p>Best Friends and alter-ego of Robert Hamma, we're Mark and Faith and we’re the Rig Rockers™.</p><p>  
 
-Robert was introduced in our lives during Mark’s tour in Iraq. We show how a funny simple minded charactor reminds us of how our complicated minds automatically default to old retarded choices that got us in situations that use to baffle us, ultimately deverting us in obtaining true honesty, fun and happiness.</p><p>
+Robert was introduced into our lives during Mark’s tour in Iraq. We show how a funny, simple minded charactor reminds us of how our complicated minds automatically default to old retarded choices that got us in situations that use to baffle us, ultimately deverting us in obtaining true honesty, fun and happiness.</p><p>
 
 We share a family unit, now in recovery, and how we make better choices today living through various forms of abuses, addictions, and physical, mental and emotional distress. Together we share in our experiences, strengths, and hopes with a messed-up sense of humor.  </p><p>
 
@@ -106,18 +106,18 @@ We invite y'all to join in our journey as seen through the glasses of Robert in 
                 </div>
             <div class="aboutus-content">
                 <h2>So who are we?</h2>
-                <p>Together we are fulfilling our dream of working Travelers, Faith is a Mental Health Social Worker, “Ms. LCSW” (Not bad for a HS dropout), and I am branching out in my role as Peer Support Spec, “Mr. Certificate of completion” (not bad for a HS dropout).  And this is part story of a couple, married at 16 and 19, with four kids and allot of life in between, we’ll start this part of our story in 1998 when the vision of Rig Rockers began.</p><p>
-Originally from Wisconsin, we lived in Florida, for about 9 years, when we had a “vision to help the homeless and save the world”. We soon packed up our 1975 20’ Winnebago Brave, with four young kids, two cats, a dog and an obnoxious fucking Parrot! We set off with $195.00 in hand believing the “vision” was to be and that our needs would be met. After filling the gas tank we headed off. Getting half way to our destination and just enough money to fill-up one last time, we were faced in conflict of either continuing on in whatever faith we had or go back as believed failures. With our tail between our legs, we returned.</p><p>
+                <p>Together we are fulfilling our dream of working travelers. Faith, “Ms. LCSW” is a Mental Health Social Worker  (Not bad for a HS dropout), and I, “Mr. Certificate of completion” am branching out in my role as Peer Support Spec  (not bad for a HS dropout).  This is part of the story of a couple, married at 16 and 19, with four kids and a lot of life in between. </p><p>We’ll start this part of our story in 1998 when the vision of Rig Rockers began.</p><p>
+Originally from Wisconsin, we lived in Florida for about 9 years. We had a “vision to help the homeless and save the world”. We soon packed up our 1975 20’ Winnebago Brave with four young kids, two cats, a dog, and an obnoxious fucking Parrot! We set off with $195.00 in hand believing the “vision” was to be and that our needs would be met. After filling the gas tank we headed off. Getting halfway to our destination and just enough money to fill-up one last time, we were faced in conflict of either continuing on in whatever faith we had or go back as believed failures. With our tail between our legs, we returned.</p><p>
 
-Feeling that We had been left abandoned by God, We  were  broke, homeless, helpless, and now faithless.  A local campground provided a stay for us until we could “get back on our feet”, or at most until the beginning of school season.  Faith and I found work and by summer's end we had a vehicle, stable income, and found a house we could rent, with subsidised help.  </p><p>
+Feeling that we had been left abandoned by God, we were broke, homeless, helpless, and now faithless.  A local campground provided a stay for us until we could “get back on our feet”, or at most until the beginning of school season.  Faith and I found work and by summer's end we had a vehicle, stable income, and found a house we could rent, with subsidised help.  </p><p>
 
-This was a crucial turn in our lives.  The choices we made in the next 22 years tells a story of how this family, formerly living in chaos, deceit and abuse, is now becoming a Healthy Family Unit. Our family is not alone when we share our Experiences Strengths and Hopes with others: The effects of Addictions, Physical, Emotional, and Mental Health disorders and many forms of abuse, have now turned a path of recovery and building strong relationships and living a life unimaginable to anything we ever knew. </p><p>
+This was a crucial turn in our lives.  The choices we made in the next 22 years tells a story of how this family, formerly living in chaos, deceit and abuse, is now becoming a healthy family unit. Our family is not alone when we share our experiences strengths and hopes with others: The effects of addictions, physical, emotional, and mental health disorders and many forms of abuse, have now turned a path of recovery, building strong relationships, and living a life unimaginable to anything we ever knew. </p><p>
 
-Looking back, we are unbelievingly grateful to have experienced everything we been through from childhood experiences, to our current 32 years dating, (married 31 of them)...  Our mission  is to share the tools we've been given to face life on life's terms, whatever the fuck that means? LOL</p><p> 
+Looking back, we are unbelievingly grateful to have experienced everything we been through from childhood experiences to our current 32 years dating (married 31 of them)...  Our mission  is to share the tools we've been given to face life on life's terms, whatever the fuck that means? LOL</p><p> 
 
-Now fulfilling that Vision, were no longer broke, hopeless and helpless.  We are discovering faith in a Power greater than us, supplying us this Journey.  The Kids now grown and starting their families, We’ve since sold everything, packed up the RV, (not the Winnebago), and shoved off “Helping people and Saving the world”!</p><p>  
+Now fulfilling that vision, were no longer broke, hopeless and helpless.  We are discovering faith in a power greater than us, supplying us this Journey.  The kids now grown and starting their families, we’ve since sold everything, packed up the RV, (not the Winnebago), and shoved off “Helping people and Saving the world”!</p><p>  
 
-We want to share our lives and the tools we receive every day to anyone, and continue living in this fucked-up world on it’s terms and having as much fun in “becoming” that which we are, each day.</p><p>  
+We want to share our lives and the tools we receive every day to everyone and continue living in this fucked-up world on it’s terms and having as much fun in “becoming” that which we are each day.</p><p>  
 
 Check this out yo, “if Ya See our Rig a Rock’n, Don't Come a Knock’n”! (How do you think this all started) Lol.
 </p>
