@@ -20,7 +20,7 @@
             <a href="index.php"><img src="img/logo.png" alt="Rig Rockers"></a>
         </div>
         <div class="social">
-                <a href="https://www.facebook.com"><i class="fab fa-facebook fa-2x"></i></a>
+                <a href="https://www.facebook.com/1rigrockers/"><i class="fab fa-facebook fa-2x"></i></a>
 
                 <a href="https://www.instagram.com/rig.rocker"><i class="fab fa-instagram fa-2x"></i></a>
 
