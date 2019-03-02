@@ -302,6 +302,18 @@ strong{
 
 
 @media (max-width: 996px){
+
+    .logo{
+        margin-left: 0px;
+    }
+
+    .social{
+        margin-right: 0px;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+
     header{
         display: block;
         text-align: center;
@@ -325,7 +337,8 @@ strong{
 
     .hamapic{
         padding: 0;
-        margin: auto;
+        margin: 0;
+        text-align: center;
     }
 
     .aboutus{
