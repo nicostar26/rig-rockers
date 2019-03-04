@@ -47,10 +47,12 @@
         <div class="about-content">
             
         <p>Best Friends and alter-ego of Robert Hamma, we're Mark and Faith and we’re the Rig Rockers™.</p><p>  
+        
+        We share a family unit, now in recovery, and how we make better choices today living through various forms of abuses, addictions, and physical, mental and emotional distress. Together we share in our experiences, strengths, and hopes with a messed-up sense of humor.  </p><p>
 
 Robert was introduced into our lives during Mark’s tour in Iraq. We show how a funny, simple minded charactor reminds us of how our complicated minds automatically default to old retarded choices that got us in situations that use to baffle us, ultimately deverting us in obtaining true honesty, fun and happiness.</p><p>
 
-We share a family unit, now in recovery, and how we make better choices today living through various forms of abuses, addictions, and physical, mental and emotional distress. Together we share in our experiences, strengths, and hopes with a messed-up sense of humor.  </p><p>
+
 
 We invite y'all to join in our journey as seen through the glasses of Robert in many forms of social media, how-tos, and gadget reviews. </p>
 
