@@ -6,7 +6,7 @@ body{
     margin: 0px;
     padding: 0px;
     line-height: 1.7em;
-    background-color: black;
+    background-color: white;
 
 }
 
@@ -19,7 +19,7 @@ strong1{
     width: 85%;
     margin: auto;
     padding: 30px;
-    background-color: white;
+    background-color: #FCFCFC;
 }
 
 .container2{
@@ -188,7 +188,7 @@ SLIDER CSS IN CSS/SLIDER.CSS
 
 .vetinfo{
     text-align: center;
-    background-color: #F5F3E4;
+    background-color: white;
     height: 150px;
 }
 
@@ -251,7 +251,7 @@ SLIDER CSS IN CSS/SLIDER.CSS
 /* AFFILIATES */
 
 .affiliates{
-    background-color: #F5F3E4;
+    background-color: white;
     height: 350px;
 }
 
@@ -269,6 +269,7 @@ SLIDER CSS IN CSS/SLIDER.CSS
 
 .affiliates p{
     padding: 20px;
+    margin-left: 120px;
     
 }
 

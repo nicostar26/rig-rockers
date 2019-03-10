@@ -92,12 +92,12 @@ We invite y'all to join in our journey as seen through the glasses of Robert in 
 </div>
 
 <!-- VETERAN INFO LINK -->
-<div class="container">
+
 <div class="vetinfo">
     <h1 id="vetinfo">Robert's Resources</h1>
     <button class="vetinfobtn"><a href="vetinfo.php">Click Here</a></button>
 </div>
-</div>
+
 
 
 <!-- ABOUT MARK AND FAITH -->
@@ -161,12 +161,12 @@ Check this out yo, “if Ya See our Rig a Rock’n, Don't Come a Knock’n”! (
     </div>
 
 <!-- AFFILIATES -->
-<div class="container">
+
     <div class="affiliates">
         <h2>Affiliates</h2>
         <p><a href="http://nicolejsaunders.com"><img id="nsdev" src="img/NSDevelopmentlogo.png" alt="NS Development"></a></p>
     </div>
-</div>
+
 
 
 <!-- CONTACT FORM -->
