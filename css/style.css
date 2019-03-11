@@ -160,24 +160,8 @@ SLIDER CSS IN CSS/SLIDER.CSS
 
 /* ROBERT HAMA */
 
-.hama{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    margin: 40px 0;
-}
-
-.hamaname{
+.vetlink{
     text-align: center;
-    padding: 10px;
-}
-
-.hamapic iframe{
-    width: 450px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-.hamapic{
-    text-align: right; 
 }
 
 #vetlink{
@@ -330,17 +314,6 @@ strong{
 
     }
 
-    .hama{
-        display: block;
-        text-align: center;
-        margin: auto;
-    }
-
-    .hamapic{
-        padding: 0;
-        margin: 0;
-        text-align: center;
-    }
 
     .aboutus{
         display: block;
@@ -450,17 +423,6 @@ strong{
     .soldierrv img{
         width: 300px;
         height: auto;
-    }
-
-    #hamaname{
-        width: 280px;
-        height: auto;
-        text-align: center;
-    }
-
-    .hamapic iframe{
-        width: 275px;
-        height: 200px;
     }
 
     .videos iframe{

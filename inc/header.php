@@ -34,9 +34,8 @@
             <label for="toggle">&#9776;</label>
             <input type="checkbox" id="toggle"/>
             <div class="menu">
-                <a href="index.php#hama">Robert Hamma</a>
                 <a href="rvinfo.php">RV Info</a>
-                <a href="vetinfo.php">Robert's Resources</a>
+                <a href="vetinfo.php">Robert Hamma's story | Recovery Resources</a>
             </div>
         </div>
         

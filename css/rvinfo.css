@@ -19,10 +19,15 @@
     margin: 40px 0px;
 }
 
-.rig1 img, .rig2 img, .rig3 img, .rig4 img, .rig5 img, .rig6 img{
+.rig1 img, .rig2 img, .rig3 img, .rig5 img, .rig6 img{
     height: 240px;
     width: 340px;
 
+}
+
+.rig4 img{
+    height: 350px;
+    width: 340px;
 }
 
 @media (max-width: 1200px){
@@ -42,11 +47,16 @@
         text-align: center;
     }
 
-    .rig1 img, .rig2 img, .rig3 img, .rig4 img, .rig5 img, .rig6 img{
+    .rig1 img, .rig2 img, .rig3 img, .rig5 img, .rig6 img{
         height: 340px;
         width: 400px;
         padding: 30px 0px;
     
+    }
+
+    .rig4 img{
+        height: 350px;
+        width: 400px;
     }
 
 }
@@ -63,11 +73,16 @@
         margin: auto;
     }
 
-    .rig1 img, .rig2 img, .rig3 img, .rig4 img, .rig5 img, .rig6 img{
+    .rig1 img, .rig2 img, .rig3 img, .rig5 img, .rig6 img{
         height: 240px;
         width: 280px;
         padding: 30px 0px;
     
+    }
+
+    .rig4 img{
+        height: 300px;
+        width: 280px;
     }
 
 }

@@ -1,4 +1,34 @@
 <?php include 'inc/header.php'; ?>
+
+<div class="container">
+    <div class="hamaname">
+        <img id="hamaname" src="img/Roberthamma.png" alt="Robert Hamma">
+</div>
+
+    <div class="hama" id="hama">
+    
+        <div class="hama-content">
+        
+            
+            <p><strong1>Robert Hamma</strong1> represents the vulnerable, emotional inner core that most of us have, most particularly, veterans that have experienced the absurd experience and environment of serving and having the impact that combat brings to any person. Whether they’re a soldier or a civilian, Robert speaks to that experience.</p>
+
+            <p>Robert allows me to experience that with humor. He allows me to experience that in open truth using humor as a vehicle and that brings healing. Robert allowed me to laugh… and I mean laugh in a genuine way. Not in a cynical jaded way, but in a very open way.</p> 
+
+            <p>He allows individuals to really express themselves in a safe way. No different than individuals who make the decision to abuse substances and elude themselves from the violence of this world. That’s what Robert speaks to.}</p> 
+
+            
+
+            <p>Humor has always been a beautiful vehicle for healing, and it truly is. And by the way… it’s fun. 
+            </p>
+
+            
+        </div>
+        <div class="hamapic">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/0c1FWF3kBmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        
+    </div>
+</div>
 <div class="container">
 <div class="resources">
 <h1>Robert's Resources</h1>
